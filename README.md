@@ -4,7 +4,7 @@
 
 ## Déroulement global du jeu
 
-Ce projet a été réalisé a l'aide du projet RPG en Console précédent, il reprend une grande partie du code, mais adapte certaines class à la contrainte graphique.</  br>
+Ce projet a été réalisé a l'aide du projet RPG en Console précédent, il reprend une grande partie du code, mais adapte certaines class à la contrainte graphique.</br>
 
 Le jeu s'articule de manière très simple, les interfaces graphiques nécéssaire à chaque actions apparaissent quand c'est nécéssaire. </br>
 On commence d'abord par entrer le nom de son personnage, on choisit ensuite sa caste, parmi Elf, Guerrier et Sorcier(La caste par défaut est Elf). 
